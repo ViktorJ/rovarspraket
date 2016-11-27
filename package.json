@@ -15,5 +15,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://viktorj.github.io/rovarspraket"
+  "homepage": "https://viktorj.github.io/rovarspraket"
 }
